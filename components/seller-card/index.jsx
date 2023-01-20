@@ -29,7 +29,7 @@ export default function SellerCard({ id, fullWidth, summary, own, seller }) {
             )}
 
             <Link href={"/authors"}>
-              <a className={styles.seller_details_link}>Ren Yoshida</a>
+              <a className={styles.seller_details_link}>Blue Lotus</a>
             </Link>
 
             {!summary && (

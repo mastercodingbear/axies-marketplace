@@ -70,7 +70,7 @@ export default function CollectionCard({ id, fullWidth, cols }) {
           <div className={styles.collection_author}>
             <span>created by</span>
             <Link href="/authors">
-              <a className={styles.collection_author_link}>Ren Yoshida</a>
+              <a className={styles.collection_author_link}>Blue Lotus</a>
             </Link>
           </div>
         </div>

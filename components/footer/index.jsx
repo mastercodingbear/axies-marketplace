@@ -140,16 +140,6 @@ export default function Footer() {
                 <li>
                   <a
                     className={styles.footer_social_link}
-                    href="https://www.linkedin.com/in/ren-yoshida"
-                    target={"_blank"}
-                    rel="noopener noreferrer"
-                  >
-                    <FaLinkedinIn />
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className={styles.footer_social_link}
                     href="https://t.me/withtechs"
                     target={"_blank"}
                     rel="noopener noreferrer"
@@ -178,16 +168,6 @@ export default function Footer() {
                     <AiFillSkype />
                   </a>
                 </li>
-                {/* <li>
-                  <a
-                    className={styles.footer_social_link}
-                    href="/"
-                    target={"_blank"}
-                    rel="noopener noreferrer"
-                  >
-                    <BsTwitter />
-                  </a>
-                </li> */}
               </ul>
             </div>
           </div>
